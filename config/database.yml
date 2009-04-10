@@ -36,8 +36,7 @@ test:
   username: root
   password:
   socket: /tmp/mysql.sock
-  MySQL база: dressinfun.com
-  MySQL юзер: dressinfun.com / a29y6j78
+
 production:
   adapter: mysql
   encoding: utf8
